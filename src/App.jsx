@@ -9,7 +9,7 @@ import PopupInfo from "./components/Popup";
 import { Backtop } from "./components/BackTop";
 
 // Theme
-import { ToggleDark } from "./theme/Toggle";
+import { ToggleDark } from "./components/Toggle";
 
 function App() {
   // Import Fetch API
