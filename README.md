@@ -20,6 +20,12 @@ Installation
 npm install
 ````
 
+Run local
+
+````
+npm run dev
+````
+
 ## Editable
 folder file can be edit 
 ````
